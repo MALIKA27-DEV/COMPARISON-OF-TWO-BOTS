@@ -1,0 +1,2 @@
+Request for bots:
+Create a checklist of actions for an employee upon detection of smoke. Write a text message for the public address system.
